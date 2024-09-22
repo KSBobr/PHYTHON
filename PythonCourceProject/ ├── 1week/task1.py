@@ -1,3 +1,5 @@
+"""https://leetcode.com/problem-list/string/
+https://leetcode.com/problems/count-and-say/?envType=problem-list-v2&envId=string"""
 class Solution(object):
     def countAndSay(self, n):
         def NS(s):
