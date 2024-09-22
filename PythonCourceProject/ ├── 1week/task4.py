@@ -1,6 +1,6 @@
 """
 https://leetcode.com/problem-list/string/
-url: https://leetcode.com/problems/string-to-integer-atoi/?envType=problem-list-v2&envId=string
+url: https://leetcode.com/problems/string-to-integer-atoi/description
 """
 
 class Solution(object):
