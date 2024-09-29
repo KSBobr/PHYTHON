@@ -1,0 +1,5 @@
+.venv/
+.flake8
+.pre-commit-config.yamlgit 
+pyproject.toml
+\PythonCourceProject\ ├── 1week/
