@@ -1,5 +1,7 @@
-"""https://leetcode.com/problem-list/array/
-url: https://leetcode.com/problems/jump-game-ii/?envType=problem-list-v2&envId=array"""
+"""
+https://leetcode.com/problem-list/array/
+url: https://leetcode.com/problems/container-with-most-water/
+"""
 
 
 class Solution:
