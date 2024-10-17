@@ -1,5 +1,5 @@
 """https://leetcode.com/problem-list/array/
-url: https://leetcode.com/problems/h-index/?envType=problem-list-v2&envId=array"""
+url: https://leetcode.com/problems/h-index/"""
 
 
 class Solution(object):
